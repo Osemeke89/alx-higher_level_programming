@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# add_0.py
-
+# 0_add.py
+# Brennan D Baraban <375@holbertonschool.com>
 
 if __name__ == "__main__":
     """Print the sum of 1 and 2."""
