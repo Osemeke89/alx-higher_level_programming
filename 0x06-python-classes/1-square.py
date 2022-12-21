@@ -1,13 +1,26 @@
 #!/usr/bin/python3
+"""The Square
+
+Defining the class
+
+"""
 
 
 class Square:
+    """A 2d square
+
+    methods for maipulating it
+
     """
-    class square that has attributes:
-        size
-    """
+
     def __init__(self, size):
+        """Make a square of a given size
+
+        Size of the new square is private
+
+        Args:
+            size (int): the length of the sides
+
         """
-        the initialization function for the square class
-        """
+
         self.__size = size
